@@ -20,15 +20,21 @@
     },
     {
       "id": "project3",
-      "description": "People shopping online on a laptop",
-      "imageUrl": "https://images.unsplash.com/photo-1522204523234-8729aa6e3d5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlY29tbWVyY2V8ZW58MHx8fHwxNzAzODc1MDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "online shopping"
+      "description": "A personal portfolio website open on a laptop",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjB3b3Jrc3BhY2V8ZW58MHx8fHwxNzcxMjM0NTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer workspace"
     },
     {
       "id": "project4",
-      "description": "Chat bubbles on a smartphone screen",
-      "imageUrl": "https://images.unsplash.com/photo-1588196749339-cf8b8d8a3333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGF0JTIwYXBwfGVufDB8fHx8MTczMzk0MTY4NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "chat bubbles"
+      "description": "Glowing question mark for a quiz application",
+      "imageUrl": "https://images.unsplash.com/photo-1593341642344-9344474792f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxdWVzdGlvbiUyMG1hcmt8ZW58MHx8fHwxNzcxMjM0NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "question mark"
+    },
+    {
+      "id": "project5",
+      "description": "Kanban board with sticky notes for a task manager app",
+      "imageUrl": "https://images.unsplash.com/photo-1547480053-7d154f48cf88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrYW5iYW4lMjBib2FyZHxlbnwwfHx8fDE3NzEyMzQ1Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kanban board"
     }
   ]
 }
