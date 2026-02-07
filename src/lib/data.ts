@@ -73,7 +73,7 @@ export const portfolioData: PortfolioData = {
       image: { id: "project1", width: 600, height: 400 },
     },
     {
-      title: "The Daily Grind",
+      title: "Coffee Shop",
       description: "A directory and review website for local coffee shops. Includes user accounts, review submissions, and a location-based search.",
       techStack: ["React", "Firebase", "Google Maps API"],
       image: { id: "project2", width: 600, height: 400 },
