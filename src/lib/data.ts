@@ -1,5 +1,5 @@
 import type { PortfolioData } from "@/lib/types";
-import { Code, Component, Figma, Framer, GitBranch, TerminalSquare, Workflow, Zap } from "lucide-react";
+import { Bug, Code, Database, FileCode, Palette, Server } from "lucide-react";
 
 export const portfolioData: PortfolioData = {
   name: "Shravani",
@@ -8,23 +8,23 @@ export const portfolioData: PortfolioData = {
   email: "mailto:hello@example.com",
   github: "https://github.com/",
   intro: {
-    blurb: "As a full-stack developer, I specialize in building robust and scalable web applications. My passion lies in crafting clean code and creating seamless user experiences, from the database to the browser.",
-    keySkills: ["Full-Stack Development", "Next.js", "TypeScript", "Node.js", "Databases"],
-    experienceSummary: "With over 5 years in the field, I've had the privilege of working on a diverse range of projects, from innovative startups to established tech companies. My experience spans the full product lifecycle, from initial concept and user research to final deployment and iteration. I'm driven by a desire to build products that not only function flawlessly but also delight and empower users."
+    blurb: "Full Stack Developer skilled in creating responsive web apps with React, Node.js, and MongoDB. Experienced in front-end, back-end, and database integration, with a focus on problem-solving and modern technologies. Proficient in SQL and AWS, particularly in fintech and e-commerce.",
+    keySkills: ["React", "Node.js", "MongoDB", "SQL", "AWS"],
+    experienceSummary: "Experienced in front-end, back-end, and database integration, with a focus on problem-solving and modern technologies. Proficient in SQL and AWS, particularly in fintech and e-commerce."
   },
   skills: [
-    { name: "Next.js", icon: "nextjs" },
-    { name: "React", icon: "react" },
-    { name: "TypeScript", icon: "typescript" },
+    { name: "HTML", icon: Code },
+    { name: "CSS", icon: Palette },
     { name: "JavaScript", icon: "javascript" },
-    { name: "Tailwind CSS", icon: "tailwind" },
-    { name: "Figma", icon: Figma },
-    { name: "Git", icon: GitBranch },
-    { name: "Framer Motion", icon: Framer },
+    { name: "React.js", icon: "react" },
     { name: "Node.js", icon: "nodejs" },
-    { name: "UI/UX Design", icon: Component },
-    { name: "Prototyping", icon: Workflow },
-    { name: "Web Sockets", icon: Zap },
+    { name: "Express.js", icon: Server },
+    { name: "MongoDB", icon: Database },
+    { name: "MySQL", icon: Database },
+    { name: "Java", icon: FileCode },
+    { name: "Python", icon: FileCode },
+    { name: "C++", icon: FileCode },
+    { name: "Problem Solving", icon: Bug },
   ],
   projects: [
     {
