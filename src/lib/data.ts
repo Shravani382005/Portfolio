@@ -4,7 +4,6 @@ import { Code, Component, Figma, Framer, GitBranch, TerminalSquare, Workflow, Za
 export const portfolioData: PortfolioData = {
   name: "Shravani",
   title: "Creative Developer & UI/UX Designer",
-  heroImageId: "hero",
   linkedin: "https://www.linkedin.com/",
   email: "mailto:hello@example.com",
   github: "https://github.com/",

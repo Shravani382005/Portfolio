@@ -22,7 +22,6 @@ export type Project = {
 export type PortfolioData = {
   name: string;
   title: string;
-  heroImageId: string;
   linkedin: string;
   email: string;
   github: string;
