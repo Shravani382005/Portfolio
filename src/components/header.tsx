@@ -4,6 +4,7 @@ import { portfolioData } from "@/lib/data";
 export default function Header() {
   const navLinks = [
     { name: "Skills", href: "#skills" },
+    { name: "Experience", href: "#experience" },
     { name: "Projects", href: "#projects" },
     { name: "Contact", href: "#contact" },
   ];

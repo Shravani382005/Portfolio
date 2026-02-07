@@ -1,5 +1,5 @@
 import type { PortfolioData } from "@/lib/types";
-import { Bug, Code, Database, FileCode, Palette, Server } from "lucide-react";
+import { Bug, Code, Database, FileCode, Palette, Server, GitMerge, Users, Lightbulb } from "lucide-react";
 
 export const portfolioData: PortfolioData = {
   name: "Shravani",
@@ -25,6 +25,45 @@ export const portfolioData: PortfolioData = {
     { name: "Python", icon: FileCode },
     { name: "C++", icon: FileCode },
     { name: "Problem Solving", icon: Bug },
+    { name: "Version Control (Git)", icon: GitMerge },
+    { name: "Team Collaboration", icon: Users },
+    { name: "Continuous Learning", icon: Lightbulb },
+  ],
+  experience: [
+    {
+      title: "Full Stack Web Developer Intern",
+      company: "TechnoHacks",
+      location: "Nashik",
+      date: "Jan 2026 - Feb 2026",
+      description: [
+        "Crafted engaging and dynamic user interfaces with HTML, CSS, JavaScript, and React.",
+        "Developed backend APIs utilizing Node.js and seamlessly integrated them with MongoDB.",
+        "Utilized Git and GitHub for version control and collaborative teamwork."
+      ]
+    },
+    {
+      title: "Software Developer Intern",
+      company: "Bluestock Fintech Company",
+      location: "Remote",
+      date: "Oct 2025 - Nov 2025",
+      description: [
+        "Resolved bugs and enhanced current code with guidance from a senior developer.",
+        "Developed technical documentation while adhering to Agile development practices.",
+        "Utilized Git for effective code management and collaboration."
+      ]
+    },
+    {
+      title: "Data Analytics Intern",
+      company: "Internzvalley",
+      location: "Remote",
+      date: "May 2025 - Jul 2025",
+      description: [
+        "Conducted comprehensive data analysis using Python and Excel.",
+        "Cleaned and processed data to derive actionable insights.",
+        "Developed detailed reports and visualizations to aid strategic decision-making.",
+        "Enhanced analytical and problem-solving capabilities."
+      ]
+    }
   ],
   projects: [
     {

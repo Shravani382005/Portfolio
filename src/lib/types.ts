@@ -19,6 +19,14 @@ export type Project = {
   githubLink: string;
 };
 
+export type Experience = {
+  title: string;
+  company: string;
+  location: string;
+  date: string;
+  description: string[];
+};
+
 export type PortfolioData = {
   name: string;
   title: string;
@@ -31,5 +39,6 @@ export type PortfolioData = {
     experienceSummary: string;
   };
   skills: Skill[];
+  experience: Experience[];
   projects: Project[];
 };
