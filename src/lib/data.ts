@@ -25,9 +25,6 @@ export const portfolioData: PortfolioData = {
     { name: "Python", icon: FileCode },
     { name: "C++", icon: FileCode },
     { name: "Problem Solving", icon: Bug },
-    { name: "Version Control (Git)", icon: GitMerge },
-    { name: "Team Collaboration", icon: Users },
-    { name: "Continuous Learning", icon: Lightbulb },
   ],
   experience: [
     {
