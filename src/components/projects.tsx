@@ -1,10 +1,8 @@
 import Image from "next/image";
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { portfolioData } from "@/lib/data";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { ExternalLink, Github } from "lucide-react";
 
 export default function Projects() {
   return (
@@ -41,18 +39,6 @@ export default function Projects() {
                     ))}
                   </div>
                 </CardContent>
-                <CardFooter className="flex gap-4">
-                  <Button asChild>
-                    <a href={project.liveLink} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="mr-2 h-4 w-4" /> Live Demo
-                    </a>
-                  </Button>
-                  <Button variant="outline" asChild>
-                    <a href={project.githubLink} target="_blank" rel="noopener noreferrer">
-                      <Github className="mr-2 h-4 w-4" /> GitHub
-                    </a>
-                  </Button>
-                </CardFooter>
               </Card>
             )
           })}

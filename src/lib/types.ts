@@ -14,9 +14,7 @@ export type Project = {
     id: string;
     width: number;
     height: number;
-  },
-  liveLink: string;
-  githubLink: string;
+  };
 };
 
 export type Experience = {
