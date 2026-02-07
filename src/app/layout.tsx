@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
   title: "Shravani's Digital Canvas",
-  description: 'Creative Developer & UI/UX Designer',
+  description: 'Full Stack Web Developer',
 };
 
 export default function RootLayout({
