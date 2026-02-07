@@ -3,37 +3,37 @@
     {
       "id": "hero",
       "description": "A portrait of a woman in a creative setting",
-      "imageUrl": "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MDQwMjYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1610655507808-a59293f4e332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MDQwMjYzMnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "woman portrait"
     },
     {
       "id": "project1",
       "description": "Scenic view of mountains and a lake for a travel website",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWx8ZW58MHx8fHwxNzAzODc0OTI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmF2ZWwlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzcwNDQ2ODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "travel landscape"
     },
     {
       "id": "project2",
       "description": "A cup of coffee in a cozy coffee shop",
-      "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8329725c51c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBzaG9wfGVufDB8fHx8MTczMzk0MTYyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2ZmZWUlMjBzaG9wfGVufDB8fHx8MTc3MDQxMTg5MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "coffee shop"
     },
     {
       "id": "project3",
       "description": "A personal portfolio website open on a laptop",
-      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXZlbG9wZXIlMjB3b3Jrc3BhY2V8ZW58MHx8fHwxNzcxMjM0NTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1546514714-df0ccc50d7bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZXZlbG9wZXIlMjB3b3Jrc3BhY2V8ZW58MHx8fHwxNzcwMzcyOTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "developer workspace"
     },
     {
       "id": "project4",
       "description": "Glowing question mark for a quiz application",
-      "imageUrl": "https://images.unsplash.com/photo-1593341642344-9344474792f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxdWVzdGlvbiUyMG1hcmt8ZW58MHx8fHwxNzcxMjM0NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1706518503834-fc7587c5c6dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxxdWVzdGlvbiUyMG1hcmt8ZW58MHx8fHwxNzcwNDMyOTc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "question mark"
     },
     {
       "id": "project5",
       "description": "Kanban board with sticky notes for a task manager app",
-      "imageUrl": "https://images.unsplash.com/photo-1547480053-7d154f48cf88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrYW5iYW4lMjBib2FyZHxlbnwwfHx8fDE3NzEyMzQ1Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1631203928493-a4e4eb2b8da1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxrYW5iYW4lMjBib2FyZHxlbnwwfHx8fDE3NzAzOTg1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "kanban board"
     }
   ]
